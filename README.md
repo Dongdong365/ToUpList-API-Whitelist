@@ -1,5 +1,7 @@
 # ToUpList-API-Whitelist
 
+本api正在测试。不保证稳定可用且还需大量更改。内部版本号：alpha-1
+
 ## 公开列表 API 白名单申请
 
 本文档说明如何为 `touplist` 插件（RW-HPS 核心）及 `touplistru` 插件（Rukkit 核心）申请上列表 API 白名单。
