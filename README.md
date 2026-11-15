@@ -61,7 +61,7 @@
 > 
 > 生效日期：2026‑09‑04
 
-本隐私政策适用于 **ToUpList API（touplist）公开列表服务**，服务仓库：[https://github.com/Dongdong192/ToUpList](https://github.com/Dongdong192/ToUpList)‑API‑Whitelist/tree/main
+本隐私政策适用于 **ToUpList API（touplist）公开列表服务**，服务仓库：https://github.com/Dongdong365/ToUpList-API-Whitelist
 凡申请白名单、调用、使用本 API 服务，即代表您同意本隐私政策全部条款。
 
 本政策中提及的**服务登记信息**：指服主提交用于服务器上架公开列表的相关数据，其中不含身份证、手机号等现实身份信息。
@@ -80,6 +80,7 @@ ToUpList API 会收集、处理以下由服主主动提交以及服务运行产�
 
 > 
 > 注意：填写为服务器**运行主机**的真实公网 IP，家用环境填写家庭公网 IP，请勿填写穿透 / 代理 IP。
+> 服务端在哪就填哪的ip（上传 IP）
 
 2. **服务器上报运行信息**
 
@@ -130,7 +131,7 @@ API 服务会留存访问日志，包含访问 IP、访问时间、请求路径�
 2. 现阶段并未完全开放 API，采用白名单机制：过滤广告、违禁内容，抵御接口刷取攻击。白名单机制有局限性，无法完全杜绝全部违规行为。
 3. 本 API 仅供个人服主测试使用，不建议大型服务器长期依赖该服务；禁止高频调用，避免挤占其他用户资源。
 4. ⚠️风险提示：包括公网 IP 在内的服务器数据可被访问监控接口的任意人员获取，服主需要自行承担由此带来的相关风险。
-5. 如果你在 ToUpList · 服务器守约监控 页面发现广告、时政相关、聊天房、无意义灌水、辱骂类违规内容，请留存相关证据，提交 GitHub Issue 反馈处理：[http://103.217.186.229:19238/reg](http://160.202.46.58:19238/register)
+5. 如果你在 ToUpList · 服务器守约监控 页面发现广告、时政相关、聊天房、无意义灌水、辱骂类违规内容，请留存相关证据，提交 GitHub Issue 反馈处理：[http://160.202.46.58:19238/reg](http://160.202.46.58:19238/register)
 6. 服务维护者不对服主的服务器内容、玩家言论承担责任，服务器内容责任由对应服主自行承担。
 
 ## 7. 隐私政策修订
@@ -140,4 +141,4 @@ API 服务会留存访问日志，包含访问 IP、访问时间、请求路径�
 ## 8. 联系我们
 
 有隐私相关疑问、修改 / 删除数据需求，请前往项目仓库提交 Issue：
-[https://github.com/Dongdong192/ToUpList](https://github.com/Dongdong192/ToUpList‑API‑Whitelist)
+https://github.com/Dongdong365/ToUpList-API-Whitelist
