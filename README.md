@@ -1,6 +1,15 @@
 # ToUpList-API-Whitelist
 
-本api正在测试。不保证稳定可用且还需大量更改。内部版本号：alpha-1
+本api正在测试。不保证稳定可用且还需大量更改。
+
+如需及时获取 API 变更、服务维护计划相关通知：
+- [🔗 DongServer 铁锈项目｜公告 / 维护 / 信息群｜DS 铁锈战争板块团队](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=_OL6wM37J-rRqb7cddCEL77M49oXGm-9&authKey=jfmvajQVTL2ZOXvJ3%2F6Yd1P5OxwyBdgM9Z4tLEtVkAw2rky7sXbjHlhEsZlE7%2BAF&noverify=0&group_code=1137115254)
+> 本群全员禁言，仅发布公告、维护与重要信息，不受闲聊打扰。
+
+- [🔗 DongServer 铁锈项目｜插件综合交流群｜DS 铁锈战争板块团队](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jDx_gKpyevcjZy5TDzDmWEOj12BxkbzJ&authKey=i2q5ElJ8Lt3Yno6glcVxp48DUhcI0rqjc7J5Mm67b9x7UZbvMe2c8HPCDl8ncD%2B4&noverify=0&group_code=1134792973)
+> 用于开服交流、插件排错、技术问题讨论。
+
+内部版本号：alpha-1
 
 ## 公开列表 API 白名单申请
 
